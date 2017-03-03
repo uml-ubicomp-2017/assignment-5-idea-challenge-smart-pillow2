@@ -1,0 +1,27 @@
+Problem:
+Sudden adult death syndrome or sudden unexpected/unexplained death syndrome (SUDS) is a sudden unexpected death of adolescents and adults, mainly during sleep. The main cause of sudden death during sleep is heart arrest (CA), and it’s difficult to detect without professional equipment. What’s more, the seniors have more chance to sudden death during sleep.
+Pillow is our necessity in daily life. Every night, we go to sleep with the support of pillow. Our idea is to design a smart pillow with sensors, which could detect the trend to sudden death and issue alarm in advance.
+
+Opportunity:
+As mention above, the seniors have more risk in sudden death during sleep. According to the World Health Organization, the current life expectancy is around 70-72 years of age. This means that we’re now in the aging society, and our grandmas/grandpas should be taken more care. Moreover, nowadays, many elders live alone. For example, according the survey from Institute on Aging, in 2010, of the seniors who lived outside nursing homes or hospitals, about one third (11.3 million) lived alone. In sum, aging society and lonely seniors exacerbate the risk of sudden death of senior people.  
+What’s more, the American Heart Association in June 2013 at the "Circulation" magazine pointed out that heart arrest was one of the deadliest public health problems in the United States, which caused death beyond colorectal cancer, breast cancer, Prostate cancer, flu, pneumonia, car accident, HIV, gun case and family fire.
+One related or similar solution is “Beddit”, which is a sensor belt placed under the bed sheet. And the Beddit could monitor sleep, track sleep time, heart rate, snoring, breathing and night-time events. In a nut shell, the Beddit focus on sleep quality improvement, and it’s not about sudden death detection and alarm.
+When sleeping, the pillow has a large contact surface with the head, especially for carotid artery, which well reflects the status of heart. On the other hand, through the smart pillow, which contains sensor array, we could get the heart rate data, do abnormal detection and generate alarm to the remote medical center on needed.
+Because carotid artery is a strong signal of heart beat, we could get more precise data than Beddit’s solution. Furthermore, we focus on sudden death detection during sleep, and there are no solutions about sudden death detection during sleep with pillow yet. To sum up, as aging society and high sudden death rate, our idea, smart pillow, would have a good market.    
+
+Solution:
+Our solution is heart rate and blood pressure monitor to detect cardiac arrest in sleeping. 3D pressure sensor matrix and flat photoplethysmogram-pulse-wave-velocity(PPG-PWV) sensor matrix, computing and communicating circuit are embedded in the pillow. 3D pressure sensor matrix locates user’s carotid artery, and activate the exact PPG sensor and PWV sensor under carotid artery.  The PPG sensor collects PPG signal and the embedded the computing circuit tracks heart rate with PPG signal. The PWV sensor collects PWV signal and the embedded the computing circuit tracks blood pressure with PMV signal. If the computing circuit builds Tompson’s Automata for heart rate and blood pressure to detect abnormal information on cardiac arrest. If the computing circuit finds any abnormal information indicating high possibility of cardiac arrest, it will make communicating circuit to dial 911 to get emergency help.
+The method that 3D pressure senor locates carotid artery and activate exact sensors saves energy and ensure the most accurate data from carotid artery. Fast algorithm based on Tompton’s Automata detects abnormal signal indicating cardiac arrest. Pillow automatically dials 911 for user in danger. The prototype of this product is created based on modular design. It’s very easy to upgrade or improve by replacing the exact component. Now our project is in prototype stage. A most accurate data monitor besides a most comfortable pillow.
+
+Resources:
+We need $3000 to implement our project. I and our team members will have 3 months to do our project after the Idea Challenge. We will use these DifferenceMaker funds to design 3D pressure sensor system, and design smart pillow which embed 3D pressure sensor system.
+We have an estimated budget for use of DifferenceMaker funds:
+Team building (May, 1months, $100). Our project will cooperate with students of mechanical engineering to help us design the smart pillow.
+Incorporating as a business/nonprofit (May 1- May 14, 2 weeks, $500). Our team will design a business plan to get our products onto the market.
+Customer investigation(May, 1months, $300). Our team member will interview with 30 to 40 people to investigate their sleep habitat, disease, and sleep quality.
+Design solution (May, 1months, $100). According to the customer investigation and existing solutions, our team will design a better solution of smart pillow.
+Product/program development (June-July, 2 months, $1500). Our team will do the prototype design, product design, and program development.
+Product/program test(July, 1months, $500). We will acquire some tests in the lab when implementing our solution. Our partners and customers can give our advice and review on our prototype.
+
+
+
